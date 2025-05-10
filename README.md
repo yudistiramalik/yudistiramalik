@@ -32,8 +32,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yudistiramalik/yudistiramalik/output/pacman-contribution-graph.svg">
 
 ##### Connect with me
-![https://instagram.com/yudstir4](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![tiktok.com/@yuds_it](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![https://instagram.com/yudstir4](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![tiktok.com/@yuds_it](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
   <h5 align="left">play games with me</h5>
 
