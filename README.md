@@ -2,7 +2,7 @@
 
 
 
-<h5 align="left">I code with</h5>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -31,15 +31,16 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yudistiramalik/yudistiramalik/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yudistiramalik/yudistiramalik/output/pacman-contribution-graph.svg">
 
-##### Connect with me
-![https://instagram.com/yudstir4](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![tiktok.com/@yuds_it](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-
-  <h5 align="left">play games with me</h5>
-
+  <h2 align="left">play games with me</h2>
+###
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yudistiramalik/yudistiramalik/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 
+##### Connect with me
+![https://instagram.com/yudstir4](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![tiktok.com/@yuds_it](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
 
 <!--
